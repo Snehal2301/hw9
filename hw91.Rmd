@@ -1,6 +1,6 @@
 ---
 title: "hw9"
-author: "Snehal"
+author: "Snehal,Tara munjuluri ,aditi nachnani"
 date: "2023-04-11"
 output: html_document
 ---
